@@ -8,7 +8,7 @@ Love f-f-f-finds a way! <3
 
 ## Preview
 
-
+![preview](https://user-images.githubusercontent.com/29645145/223684930-4e87ce73-c74c-45f6-9c1a-33737162a5b2.jpg)
 
 
 ## License
