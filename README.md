@@ -6,6 +6,11 @@ A Python/Selenium script for a simple Tinder bot. Interfaces with the web client
 Love f-f-f-finds a way! <3
 
 
+## Warning
+
+Facebook is onto it, if you use this tool the amount of profiles you can browse each day will be capped. Don't say I didn't warn you!
+
+
 ## Preview
 
 ![preview](https://user-images.githubusercontent.com/29645145/223684930-4e87ce73-c74c-45f6-9c1a-33737162a5b2.jpg)
